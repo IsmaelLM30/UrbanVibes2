@@ -2,7 +2,7 @@
 <html lang= "es">
 <head>
 	<meta charset="UTF-8">
-	<title>PayPal</title>
+	<title>Hola</title>
     <script src="https://www.paypal.com/sdk/js?client-id=test&buyer-country=US&currency=USD&components=buttons&enable-funding=venmo,paylater,card" data-sdk-integration-source="developer-studio">
 	</script>
     <script src="app.js"></script>
